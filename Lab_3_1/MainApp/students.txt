@@ -1,0 +1,8 @@
+Student BobOrel
+{
+  "firstname": "Bob",
+  "lastname": "Orel",
+  "studentId": "KB12345678",
+  "course": "6",
+  "birthDate": "15-07-2004"
+};

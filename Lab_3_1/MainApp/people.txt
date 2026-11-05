@@ -1,0 +1,51 @@
+Student ShevchenkoNadiia
+{
+  "firstName": "Nadiia",
+  "lastName": "Shevchenko",
+  "course": 3,
+  "studentCardNumber": "KB123456",
+  "birthDate": "15-07 2004"
+}
+
+Student KovalenkoAndrii
+{
+  "firstName": "Andrii",
+  "lastName": "Kovalenko",
+  "course": 3,
+  "studentCardNumber": "AA234567",
+  "birthDate": "22-06 2003"
+}
+
+Student MelnykOlena
+{
+  "firstName": "Olena",
+  "lastName": "Melnyk",
+  "course": 2,
+  "studentCardNumber": "BC345678",
+  "birthDate": "10-08 2005"
+}
+
+Student BondarMaksym
+{
+  "firstName": "Maksym",
+  "lastName": "Bondar",
+  "course": 3,
+  "studentCardNumber": "CD456789",
+  "birthDate": "12-12 2004"
+}
+
+Teacher PetrovOleksandr
+{
+  "firstName": "Oleksandr",
+  "lastName": "Petrov",
+  "employeeId": "T123456",
+  "subject": "Computer Science"
+}
+
+Astronaut GagarinYurii
+{
+  "firstName": "Yurii",
+  "lastName": "Gagarin",
+  "astronautId": "A123456",
+  "mission": "Commander"
+}
